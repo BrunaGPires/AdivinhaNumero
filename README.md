@@ -1,2 +1,2 @@
 # AdivinhaNumero
-Estudo
+Estudo de caso de uso.
